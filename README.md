@@ -1,0 +1,2 @@
+# Lazyer
+A lazy system
